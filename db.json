@@ -29,51 +29,8 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 88,
-      "services": [
-        {
-          "name": "serviço 1",
-          "cost": "50",
-          "description": "faz alguma coisa",
-          "id": "7b6fcac6-5bbc-404b-8552-9ef01b7258e3"
-        },
-        {
-          "name": "serviço novo atualizado",
-          "cost": "10",
-          "description": "faz alguma coisa 2",
-          "id": "f20e8a6a-89f8-4477-a8f9-0f744250c8c3"
-        },
-        {
-          "name": "serviço novo mais barato",
-          "cost": "15",
-          "description": "faz alguma coisa 2",
-          "id": "0621ab31-da06-40d5-90f2-d98a49715830"
-        },
-        {
-          "name": "Contratar Dev",
-          "cost": "5",
-          "description": "Programar e programar",
-          "id": "5ed5a932-2c1d-444c-a8aa-18b1e5f410b5"
-        },
-        {
-          "name": "Dev JS -TS",
-          "cost": "5",
-          "description": "Development and Testing",
-          "id": "2b727686-a1ef-4a5c-b2b5-05f898099e7a"
-        },
-        {
-          "name": "Dev Java",
-          "cost": "2",
-          "description": "algum codigo",
-          "id": "f5925b47-8d7f-4483-a99a-31ebc84eed96"
-        },
-        {
-          "name": "def",
-          "cost": "1",
-          "description": "Cargo Oficial",
-          "id": "7dc8b422-7a3c-4109-b365-e6c570f803ca"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 8
     }
   ],
